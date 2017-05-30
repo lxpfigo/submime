@@ -1,0 +1,13 @@
+[
+    { "keys": ["super+control+t"], "command": "open_terminal" },
+    { "keys": ["super+control+n"], "command": "advanced_new_file_new"},
+    { "keys": ["super+1"], "command": "toggle_side_bar" },
+    { "keys": ["super+d"], "command": "duplicate_line" },
+    { "keys": ["ctrl+alt+l"], "command": "code_formatter"},
+    { "keys": ["ctrl+super+l"], "command": "code_formatter"},
+    { "keys": ["super+u"], "command": "copy_path" },
+    { "keys": ["super+delete"], "command": "run_macro_file", "args": {"file": "res://Packages/Default/Delete Line.sublime-macro"} },
+    { "keys": ["super+o"], "command": "goto_definition" },
+    { "keys": ["super+shift+o"], "command": "quick_goto_file" }
+
+]

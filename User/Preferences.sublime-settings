@@ -1,0 +1,33 @@
+{
+	"auto_complete": false,
+	"auto_find_in_selection": true,
+	"caret_extra_width": 1,
+	"caret_style": "phase",
+	"color_inactive_tabs": true,
+	"color_scheme": "Packages/User/SublimeLinter/itg.Monokai (SL).tmTheme",
+	"ensure_newline_at_eof_on_save": true,
+	"expand_tabs_on_save": true,
+	"find_selected_text": true,
+	"font_face": "Fira Code",
+	"font_size": 15.5,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"line_padding_bottom": 4,
+	"line_padding_top": 4,
+	"save_on_focus_lost": true,
+	"sidebar_row_padding_large": true,
+	"sidebar_size_14": true,
+	"tabs_label_not_italic": true,
+	"tabs_padding_small": true,
+	"theme": "Afterglow-orange.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": false,
+	"update_check": false,
+	"word_wrap": false,
+	"hot_exit": false,
+	"remember_open_files": false
+}

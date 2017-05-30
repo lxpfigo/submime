@@ -1,0 +1,4 @@
+[
+    { "keys": ["super+r"], "command": "quick_goto_function" },
+    { "keys": ["super+;"], "command": "quick_goto_variable" },
+]

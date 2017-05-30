@@ -1,0 +1,9 @@
+{
+   "scope": "source.php",
+
+   "completions":
+   [
+      { "trigger": "ddd", "contents": "echo '<pre>';var_dump($0);exit;" }
+   ]
+}
+

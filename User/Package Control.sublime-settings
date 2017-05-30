@@ -1,0 +1,25 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AutoFileName",
+		"BracketHighlighter",
+		"CodeFormatter",
+		"DocBlockr",
+		"Emmet",
+		"FileDiffs",
+		"jQuery",
+		"Package Control",
+		"PackageResourceViewer",
+		"QuickGotoAnything",
+		"SFTP",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-php",
+		"Terminal",
+		"Theme - Afterglow"
+	]
+}
