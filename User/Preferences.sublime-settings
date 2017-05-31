@@ -12,12 +12,14 @@
 	"font_size": 15.5,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
+	"hot_exit": false,
 	"ignored_packages":
 	[
 		"Vintage"
 	],
 	"line_padding_bottom": 4,
 	"line_padding_top": 4,
+	"remember_open_files": false,
 	"save_on_focus_lost": true,
 	"sidebar_row_padding_large": true,
 	"sidebar_size_14": true,
@@ -27,7 +29,5 @@
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": false,
 	"update_check": false,
-	"word_wrap": false,
-	"hot_exit": false,
-	"remember_open_files": false
+	"word_wrap": false
 }
