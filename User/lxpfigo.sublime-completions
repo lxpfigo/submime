@@ -3,7 +3,8 @@
 
    "completions":
    [
-      { "trigger": "ddd", "contents": "echo '<pre>';var_dump($0);exit;" }
+      { "trigger": "ddd", "contents": "echo '<pre>';var_dump($0);exit;" },
+      { "trigger": "uuu", "contents": "url::action('$1@$2');" }
    ]
 }
 

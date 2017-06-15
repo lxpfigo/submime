@@ -1,0 +1,9 @@
+{
+   "scope": "text.html",
+
+   "completions":
+   [
+      { "trigger": "ddd", "contents": "console.log($1);return false;" },
+      { "trigger": "uuu", "contents": "<{url action=$1@$2}>"}
+   ]
+}
