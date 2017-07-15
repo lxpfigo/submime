@@ -7,20 +7,27 @@
 	[
 		"AdvancedNewFile",
 		"AutoFileName",
+		"Blade Snippets",
 		"BracketHighlighter",
 		"CodeFormatter",
 		"DocBlockr",
 		"Emmet",
 		"FileDiffs",
 		"jQuery",
+		"Laravel 5 Artisan",
+		"Laravel 5 Snippets",
+		"Laravel Blade Highlighter",
+		"Modific",
 		"Package Control",
 		"PackageResourceViewer",
 		"QuickGotoAnything",
+		"QuoteHTML",
 		"SFTP",
 		"SublimeCodeIntel",
 		"SublimeLinter",
 		"SublimeLinter-php",
 		"Terminal",
-		"Theme - Afterglow"
+		"Theme - Afterglow",
+		"Vue Syntax Highlight"
 	]
 }
